@@ -26,7 +26,6 @@ function generateComputerChoice() {
     if (randomNumber === 2) {
         computerChoice = "Papier";
     }
-
     */
 
     switch(randomNumber) {
